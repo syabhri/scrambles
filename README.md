@@ -15,9 +15,9 @@ scrambles uses a manualy created small but spesific wordlist as a source to crea
 # feature
 
 - minimum and maximum length
--(soon) usual numeric rule
--(soon) symbol rule
--(soon)...
+- (soon) usual numeric rule
+- (soon) symbol rule
+- (soon)...
 
 note : sorry for the bad english and misspell
 
